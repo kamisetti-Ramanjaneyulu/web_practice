@@ -1,0 +1,31 @@
+/*element selector*/
+p{
+    color: black;
+   
+}
+div{
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+button{
+    color: aqua;
+}
+/*class selector*/
+.heading{
+    font-family: cochin;
+    font-size: bold;
+    color: black;
+}
+
+/*id selector*/
+#id{
+    background-color: aquamarine;
+}
+
+/*universal selector*/
+*{
+    margin: 0px;
+}
+
+
